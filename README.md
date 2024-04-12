@@ -1,6 +1,6 @@
 # Landing Page One Piece
 
- ![preview]((https://1drv.ms/v/s!AtqXTtPLiyyNkjj6ged_U_Y6Hfzh?e=kvwnWt))
+ ![preview](https://1drv.ms/v/s!AtqXTtPLiyyNkjj6ged_U_Y6Hfzh?e=kvwnWt)
  
  - Landing page do anime one piece
 
@@ -16,6 +16,6 @@
 - Github
 
 ## Contato
-[(LinkedIn)](www.linkedin.com/in/samanta-gomes-786415216)
+[(LinkedIn)](https://www.linkedin.com/in/samanta-gomes-786415216/)
 -----
 Samantagdms@gmail.com
